@@ -1,5 +1,9 @@
 var ready = (function () {
+<<<<<<< HEAD
     //function
+=======
+    //ready
+>>>>>>> dev
     var isReady = false;
     // 标准浏览器
     if (window.addEventListener) {
